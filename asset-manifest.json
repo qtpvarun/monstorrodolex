@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monstorrodolex/static/css/main.ed02ab69.chunk.css",
+    "main.js": "/monstorrodolex/static/js/main.c5d92961.chunk.js",
+    "main.js.map": "/monstorrodolex/static/js/main.c5d92961.chunk.js.map",
+    "runtime-main.js": "/monstorrodolex/static/js/runtime-main.6252225e.js",
+    "runtime-main.js.map": "/monstorrodolex/static/js/runtime-main.6252225e.js.map",
+    "static/js/2.573c64f7.chunk.js": "/monstorrodolex/static/js/2.573c64f7.chunk.js",
+    "static/js/2.573c64f7.chunk.js.map": "/monstorrodolex/static/js/2.573c64f7.chunk.js.map",
+    "index.html": "/monstorrodolex/index.html",
+    "precache-manifest.54335955fb5fdcb2e03e197477d1af24.js": "/monstorrodolex/precache-manifest.54335955fb5fdcb2e03e197477d1af24.js",
+    "service-worker.js": "/monstorrodolex/service-worker.js",
+    "static/css/main.ed02ab69.chunk.css.map": "/monstorrodolex/static/css/main.ed02ab69.chunk.css.map",
+    "static/media/logo.svg": "/monstorrodolex/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6252225e.js",
+    "static/js/2.573c64f7.chunk.js",
+    "static/css/main.ed02ab69.chunk.css",
+    "static/js/main.c5d92961.chunk.js"
+  ]
+}
